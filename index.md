@@ -16,9 +16,9 @@ I am studying towards a master degree and majoring in **Power electronics** at H
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2017 - June 2021:** Changsha University of Science & Technology | Electrical Engineering (BEng)
+- **Sep 2017 - June 2021:** Changsha University of Science & Technology | Electrical Engineering (Bachelor)
   <br>
-- **Sep 2021 - Present:** Hebei University of Science | Power Electronics (BSc)
+- **Sep 2021 - Present:** Hebei University of Science | Power Electronics (Master)
   <br>
 
 Expect to apply for a three-year MSc in the China and will graduate in 2024. Looking for PhD position after MSc!
