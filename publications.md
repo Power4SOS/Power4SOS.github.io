@@ -8,7 +8,7 @@ Lastest Update: 15th Sep 2023
 
 ## Published Paper
 
-- [A Variable Switching Frequency Control for ZVS Three-Phase Three-Level T-type Inverter Using Hybrid Discontinuous PWM](https://Power4SOS/mypaper/Published Paper/Variable.pdf) | Jianliang Chen, **Jie Deng**, etc. (Accepted)<br>IEEE Transactions on Power Electronics (IF: 6.7, JCR Q1). Under major modification.
+- [A Variable Switching Frequency Control for ZVS Three-Phase Three-Level T-type Inverter Using Hybrid Discontinuous PWM](https://Power4SOS/mypaper/Published Paper/Variable.pdf)<br>Jianliang Chen, **Jie Deng**, etc. (Accepted)<br>IEEE Transactions on Power Electronics (IF: 6.7, JCR Q1).<br>
 
 - Light Load Efficiency Improvement for Three-Phase Inverter Employing Variable Switching Frequency Control under Mixed TCM_DCM Operation | **Jie Deng**,Jianliang Chen, etc. (Under review)<br>IEEE Transactions on Power Electronics (IF: 6.7, JCR Q1). Under major modification.<br>
   <br>
