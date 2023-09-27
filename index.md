@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jie Deng (邓杰)**.
 
-I am studying towards master degree and majoring in **Power electronics** at Hebei University of science. My research interests mainly include the modulation and control of high switching frequency and high power density three-phase inverters, advised by [Prof. Jianliang Chen](https://ee.hebut.edu.cn/szdw/jsml/C/22f560b1df664d6eb9f01094159c11f2.html). Here is [[my CV](https://Power4SOS/file/CV-JieDeng.pdf)].
+I am studying towards a master degree and majoring in **Power electronics** at Hebei University of science. My research interests mainly include the modulation and control of high switching frequency and high power density three-phase inverters, advised by [Prof. Jianliang Chen](https://ee.hebut.edu.cn/szdw/jsml/C/22f560b1df664d6eb9f01094159c11f2.html). Here is [[my CV](https://Power4SOS/file/CV-JieDeng.pdf)].
 
 <br>
 
@@ -17,7 +17,9 @@ I am studying towards master degree and majoring in **Power electronics** at Heb
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2017 - June 2021:** Changsha University of Science & Technology | Electrical Engineering (BEng)
+  <br>
 - **Sep 2021 - Present:** Hebei University of Science | Power Electronics (BSc)
+  <br>
 - Expect to apply for a three-year MSc in the China and will graduate in 2024. Looking for PhD position after MSc!
 
 <br>
