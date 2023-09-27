@@ -8,21 +8,21 @@ title: Portfolio
 
 ## Undergraduate work
 
-### Bi_direactional DC/DC converter
+### -Bi_direactional DC/DC converter
 
 <div>
 <img src="/images/DCDC.JPG">
 </div>
 <br>
 
-### Wide input range isolated auxiliary power device
+### -Wide input range isolated auxiliary power device
 
 <div>
 <img src="/images/Final additional.JPG">
 </div>
 <br>
 
-### UPS power converter (PFC+boost)
+### -UPS power converter (PFC+boost)
 
 <div>
 <img src="/images/hunan contest.JPG">
