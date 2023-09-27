@@ -27,7 +27,7 @@ I previously enjoyed long-distance running and computer game developing/playing.
 
 ## My Dogs
 
-They are all my love. The white one is Bai Xiao(小白), the other one is lucky.
+They are all my love. The white one is Bai Xiao(小白), the other one is lucky(幸运).
 
 <div class="second">
 <img src="/images/bai.jpg">
