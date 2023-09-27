@@ -30,7 +30,7 @@ I previously enjoyed long-distance running and computer game developing/playing.
 They are all my love. The white one is Bai Xiao(小白), the other one is lucky(幸运).
 
 <div class="second">
-<img src="/images/bai.jpg" class="floatpic" width="627" height="769">
+<img src="/images/bai.jpg" class="floatpic" width="626" height="617">
 <img src="/images/lucky.jpg" class="floatpic" width="609" height="593">
 </div>
 <br>
