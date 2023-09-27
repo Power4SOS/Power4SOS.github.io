@@ -8,15 +8,15 @@ Lastest Update: 15th Sep 2023
 
 ## Research Experience
 
-- Innovation Lab of the School of Electrical Engineering | Hardware designer<br>
+- Innovation Lab of the School of Electrical Engineering | **Hardware designer**<br>
 Responsible to design the hardware of the power converters.<br>
 Sep 2018 -- Jul 2021	
   <br>
-- Xingsha Center of Hunan Electrical Power Company of State Electrical Power | Trainee<br>
+- Xingsha Center of Hunan Electrical Power Company of State Electrical Power |  **Trainee **<br>
 Responsible to overhaul electrical devices.<br>
 Jan 2021 -- May 2021	
   <br>
-- Shijiazhuang Kelin Electric Co., Ltd. | Technical adviser<br>
+- Shijiazhuang Kelin Electric Co., Ltd. |  **Technical adviser **<br>
 Providing technical advice, mainly focusing on the modulation and control method for three-phase three-level T-type inverters.<br>
 Apr 2023 -- Present	
   <br>

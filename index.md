@@ -21,7 +21,7 @@ I am studying towards a master degree and majoring in **Power electronics** at H
 - **Sep 2021 - Present:** Hebei University of Science | Power Electronics (BSc)
   <br>
 
-- Expect to apply for a three-year MSc in the China and will graduate in 2024. Looking for PhD position after MSc!
+Expect to apply for a three-year MSc in the China and will graduate in 2024. Looking for PhD position after MSc!
 
 ---
 
@@ -32,7 +32,7 @@ I am studying towards a master degree and majoring in **Power electronics** at H
 - Noninvasive technique for DC-link capacitance estimation
 - Machine learning
 
-    My current research focuses on practical problems that **the miniaturization of power electronic devices** face in real life. My interests are on the **Variable switching frequency control** and its applications in **Three-phase inverters**. In a word, advanced technologies like variable  switching frequency control and machine learning positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that **the miniaturization of power electronic devices** face in real life. My interests are on the **Variable switching frequency control** and its applications in **Three-phase inverters**. In a word, advanced technologies like variable  switching frequency control and machine learning positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
@@ -40,8 +40,10 @@ I am studying towards a master degree and majoring in **Power electronics** at H
 
 ## News and Updates
 
+
 - **July 2023：**One paper accepted to IEEE Transactions on Power Electronics!
+
 
 ---
 
-- If you are interested in my works, please contact on me (Email: 202121401109@stu.hebut.edu.cn).
+If you are interested in my works, please contact on me (Email: 202121401109@stu.hebut.edu.cn).
