@@ -40,4 +40,4 @@ My current research focuses on practical problems that miniaturization of power 
 ## News and Updates
 
 - **July 2023：**One paper accepted to IEEE Transactions on Power Electronics!
-- If you are interested in my works, please contact on me.
+- If you are interested in my works, please contact on me (Email: 202121401109@stu.hebut.edu.cn).
