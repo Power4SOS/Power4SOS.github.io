@@ -18,7 +18,7 @@ title: Portfolio
 ### -Control board for variable switching frequency converters (DSP28374S+CPLD)
 
 <div>
-<img src="/images/control board.JPG">
+<img src="/images/control_board.JPG">
 </div>
 <br>
 
@@ -35,13 +35,13 @@ title: Portfolio
 ### -Wide input range isolated auxiliary power device
 
 <div>
-<img src="/images/Final additional.JPG">
+<img src="/images/Final_additional.JPG">
 </div>
 <br>
 
 ### -UPS power converter (PFC+boost)     **<font color='red'>"Electronic design competition winning entries"</font>**
 
 <div>
-<img src="/images/hunan contest.JPG">
+<img src="/images/hunan_contest.JPG">
 </div>
 <br>
