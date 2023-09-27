@@ -11,7 +11,7 @@ title: Portfolio
 ### -The 6-kW three-phase three-level T-type inverter (variable switching range: 100-500 kHz)
 
 <div>
-<img src="/images/DCAC.JPG"> class="floatpic" width="800" height="662">
+<img src="/images/DCAC.JPG">
 </div>
 <br>
 
