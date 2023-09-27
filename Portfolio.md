@@ -11,14 +11,14 @@ title: Portfolio
 ### -The 6-kW three-phase three-level T-type inverter (variable switching range: 100-500 kHz)
 
 <div>
-<img src="/images/DCAC.JPG">
+<img src="/images/DCAC.jpg">
 </div>
 <br>
 
 ### -Control board for variable switching frequency converters (DSP28374S+CPLD)
 
 <div>
-<img src="/images/control_board.JPG">
+<img src="/images/control_board.jpg">
 </div>
 <br>
 
@@ -28,20 +28,20 @@ title: Portfolio
 ### -Bi_direactional DC/DC converter
 
 <div>
-<img src="/images/DCDC.JPG">
+<img src="/images/DCDC.jpg">
 </div>
 <br>
 
 ### -Wide input range isolated auxiliary power device
 
 <div>
-<img src="/images/Final_additional.JPG">
+<img src="/images/Final_additional.jpg">
 </div>
 <br>
 
 ### -UPS power converter (PFC+boost)     **<font color='red'>"Electronic design competition winning entries"</font>**
 
 <div>
-<img src="/images/hunan_contest.JPG">
+<img src="/images/hunan_contest.jpg">
 </div>
 <br>
