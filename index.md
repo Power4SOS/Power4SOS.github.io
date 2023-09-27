@@ -4,17 +4,17 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://Power4SOS.github.io/JieDeng.jpg" class="floatpic" width="350" height="431">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Jie Deng (邓杰)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am studying towards master degree and majoring in **Power electronics** at Hebei University of science. My research interests mainly include the modulation and control of high switching frequency and high power density three-phase inverters, advised by [Prof. Jianliang Chen](https://ee.hebut.edu.cn/szdw/jsml/C/22f560b1df664d6eb9f01094159c11f2.html). Here is [[my CV](https://Power4SOS/file/CV-JieDeng.pdf)].
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 - **Sep 2020 - May 2024:** Maynooth University (BSc)
