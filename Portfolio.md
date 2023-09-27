@@ -35,13 +35,13 @@ title: Portfolio
 ### -Wide input range isolated auxiliary power device
 
 <div>
-<img src="/images/Final additional.JPG">
+<img src="https://Power4SOS.github.io/images/Final additional.JPG">
 </div>
 <br>
 
-### -UPS power converter (PFC+boost)
+### -UPS power converter (PFC+boost)   **<font color='red'>Electronic design competition winning entries</font>**
 
 <div>
-<img src="/images/hunan contest.JPG">
+<img src="https://Power4SOS.github.io/images/hunan contest.JPG">
 </div>
 <br>
