@@ -9,7 +9,7 @@ owner:
   name: Jie Deng
   avatar: Jie.jpg
  # bio:
-  email: 202121401109@stu.hebut.edu.cn
+  email: dengjie.tpe.tie@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: none
   # facebook: caihanlin2002
@@ -82,4 +82,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
+# Latest update in 2023/10/7 by Jie Deng.

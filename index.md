@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jie Deng (邓杰)**.
 
-I am studying towards a master degree and majoring in **Power electronics** at Hebei University of science. My research interests mainly include the modulation and control of high switching frequency and high power density three-phase inverters, advised by [Prof. Jianliang Chen](https://ee.hebut.edu.cn/szdw/jsml/C/22f560b1df664d6eb9f01094159c11f2.html). Here is [[my CV](https://Power4SOS/file/CV-JieDeng.pdf)].
+I am studying towards a master degree and majoring in **Power electronics** at Hebei University of science. My research interests mainly include **the miniaturization of power electronic devices**, advised by [Prof. Jianliang Chen](https://ee.hebut.edu.cn/szdw/jsml/C/22f560b1df664d6eb9f01094159c11f2.html). Here is [[my CV](https://Power4SOS/file/CV-JieDeng.pdf)].
 
 <br>
 
@@ -21,7 +21,7 @@ I am studying towards a master degree and majoring in **Power electronics** at H
 - **Sep 2021 - Present:** Hebei University of Science | Power Electronics (Master)
   <br>
 
-Expect to apply for a three-year MSc in the China and will graduate in 2024. Looking for PhD position after MSc!
+Expect to apply for a three-year Master in the China and will graduate in 2024. Looking for PhD position after Master!
 
 ---
 
@@ -30,7 +30,7 @@ Expect to apply for a three-year MSc in the China and will graduate in 2024. Loo
 - High switching frequency/high power density three-phase inverters
 - Model of variable switching frequency converters
 - Noninvasive technique for DC-link capacitance estimation
-- Machine learning
+- High-Bandwidth Grid-Connected Inverter to Enhance System Robustness Against Weak Grid
 
 My current research focuses on practical problems that **the miniaturization of power electronic devices** face in real life. My interests are on the **Variable switching frequency control** and its applications in **Three-phase inverters**. In a word, advanced technologies like variable  switching frequency control and machine learning positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
@@ -46,4 +46,4 @@ My current research focuses on practical problems that **the miniaturization of 
 
 ---
 
-If you are interested in my works, please contact on me (Email: 202121401109@stu.hebut.edu.cn).
+If you are interested in my works, please contact on me (Email: <font color='red'>[202121401109@stu.hebut.edu.cn]</font>, or <font color='red'>[dengjie.tpe.tie@gmail.com]</font>).
